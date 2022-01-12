@@ -1,0 +1,46 @@
+.container-1
+{
+  background-color: #D8E9A8;
+  padding: 3% 10%;
+  text-align: center;
+  width: auto;
+}
+
+.feature-container
+{
+  padding: 3% 5%;
+  text-align: center;
+}
+
+.icon
+{
+  color: #1E5128;
+  margin: 10px;
+}
+
+.brandclass
+{
+  color: #1E5128;
+  font-weight: bolder;
+}
+
+.header-content
+{
+  background-color: #D8E9A8;
+  font-family: 'Montserrat';
+  font-size: 35px;
+  padding: 10%;
+}
+
+.review-section
+{
+  color: #1E5128;
+  font-family: 'Montserrat';
+  font-size: 25px;
+  text-align: center;
+}
+
+.img
+{
+  border-radius: 50px;
+}
